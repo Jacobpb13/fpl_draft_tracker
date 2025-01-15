@@ -1,0 +1,15 @@
+# Frontend
+frontend/node_modules/    # Ignore Node.js dependencies
+frontend/build/           # Ignore React production build files
+
+# Backend
+backend/venv/             # Ignore Python virtual environment
+backend/__pycache__/      # Ignore Python cache files
+backend/*.pyc             # Ignore Python compiled files
+
+# Common
+*.log                     # Ignore log files
+.DS_Store                 # Ignore macOS system files
+.env                      # Ignore environment variable files
+
+
